@@ -1,0 +1,11 @@
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\bin\Debug\netcoreapp2.1\SortAlgorithm.deps.json
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\bin\Debug\netcoreapp2.1\SortAlgorithm.runtimeconfig.json
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\bin\Debug\netcoreapp2.1\SortAlgorithm.runtimeconfig.dev.json
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\bin\Debug\netcoreapp2.1\SortAlgorithm.dll
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\bin\Debug\netcoreapp2.1\SortAlgorithm.pdb
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.csprojAssemblyReference.cache
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.csproj.CoreCompileInputs.cache
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.AssemblyInfoInputs.cache
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.AssemblyInfo.cs
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.dll
+D:\Projects\Git\Sort-Algorithms\SortAlgorithm\SortAlgorithm\obj\Debug\netcoreapp2.1\SortAlgorithm.pdb
